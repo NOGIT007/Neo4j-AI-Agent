@@ -49,24 +49,40 @@ Transform your Neo4j database interactions from complex query writing to simple 
 The notebook guides you through 4 complete phases:
 
 ### Phase 1: Environment Setup 🔧
-- Install required packages
+- Install required packages and dependencies
 - Authenticate with Google Cloud
-- Interactive credential configuration
+- Interactive credential configuration with validation
+- Project and resource verification
 
-### Phase 2: Local Development 🧪
-- Create and test the AI agent
-- Verify database connectivity
-- Real-time testing with your data
+### Phase 2: Local Development & Testing 🧪
+- Create and configure the AI agent
+- Implement Neo4j connection tools
+- Real-time testing with your database
+- Schema discovery and query execution
 
 ### Phase 3: Deployment Preparation 🎯
-- Prepare cloud configuration
-- Set up environment variables
+- Prepare cloud deployment configuration
+- Set up environment variables securely
 - Validate deployment readiness
+- Configure resource specifications
 
 ### Phase 4: Cloud Deployment ☁️
 - Deploy to Vertex AI Agent Engine
-- Test deployed functionality
-- Production access setup
+- Test deployed functionality in the cloud
+- Verify production access and connectivity
+- Performance and reliability checks
+
+### Phase 5: Agentspace Registration 🏢
+- Register agent with organizational Agentspace
+- Configure discovery and access permissions
+- Set up agent gallery integration
+- Enable team collaboration features
+
+### Phase 6: Management & Cleanup 🛠️
+- Test direct agent engine connections
+- Delete agent registrations when needed
+- Troubleshoot deployment issues
+- Monitor and maintain agent performance
 
 ## 🎓 Perfect For Learning
 
